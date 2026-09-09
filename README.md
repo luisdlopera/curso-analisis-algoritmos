@@ -31,3 +31,4 @@ python3 --version
 
 * **Estudiante:** Luis David Lopera
 * **Correo de contacto:** luis.lopera28@gmail.com
+* **Semestre:** 2026-2
