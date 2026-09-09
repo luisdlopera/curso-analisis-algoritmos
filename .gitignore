@@ -1,0 +1,27 @@
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y reportes
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
